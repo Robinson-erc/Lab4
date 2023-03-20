@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lab3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lab3\ here.\r\n\r\n\ @author\ (Eric\ Robinson)\r\n\ @version\ (V1.0\ 2/20/23)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ Lab3()
+comment3.params=file
+comment3.target=java.util.Scanner\ OpenInFile(java.io.File)
+numComments=4
